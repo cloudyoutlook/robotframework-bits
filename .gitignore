@@ -1,0 +1,10 @@
+/Old
+.DS_Store
+.idea
+build/
+log.html
+output.xml
+report.html
+__pycache__
+/app/screenshots
+

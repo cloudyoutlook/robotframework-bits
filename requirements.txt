@@ -1,0 +1,8 @@
+robotframework
+robotframework-requests
+#opencv-contrib-python
+opencv-python-headless
+scikit-image
+imutils
+
+pytesseract
